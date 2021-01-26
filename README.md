@@ -48,11 +48,7 @@
       <div class="medium-6 columns medium-pull-6">
         <h2>Our Agency, our selves.</h2>
         <p>
-          Vivamus luctus urna sed urna ultricies ac tempor dui sagittis.
-          In condimentum facilisis porta. Sed nec diam eu diam mattis viverra.
-          Nulla fringilla, orci ac euismod semper, magna diam porttitor mauris,
-          quis sollicitudin sapien justo in libero. Vestibulum mollis mauris enim.
-          Morbi euismod magna ac lorem rutrum elementum. Donec viverra auctor.
+          What?
         </p>
       </div>
     </div>
@@ -60,9 +56,7 @@
     <div class="row">
       <div class="medium-4 columns">
         <h3>Photoshop</h3>
-        <p>Vivamus luctus urna sed urna ultricies ac tempor dui sagittis.
-        In condimentum facilisis porta. Sed nec diam eu diam mattis viverra.
-        Nulla fringilla, orci ac euismod semper, magna.</p>
+        <p> Not sure what to do at this point... </p>
       </div>
       <div class="medium-4 columns">
         <h3>Javascript</h3>
@@ -70,9 +64,7 @@
       </div>
       <div class="medium-4 columns">
         <h3>Marketing</h3>
-        <p>Vivamus luctus urna sed urna ultricies ac tempor dui sagittis.
-        In condimentum facilisis porta. Sed nec diam eu diam mattis viverra.
-        Nulla fringilla, orci ac euismod semper, magna.</p>
+        <p> Not sure if I like this template either. </p>
       </div>
     </div>
 
