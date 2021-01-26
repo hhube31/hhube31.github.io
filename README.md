@@ -66,9 +66,7 @@
       </div>
       <div class="medium-4 columns">
         <h3>Javascript</h3>
-        <p>Vivamus luctus urna sed urna ultricies ac tempor dui sagittis.
-        In condimentum facilisis porta. Sed nec diam eu diam mattis viverra.
-        Nulla fringilla, orci ac euismod semper, magna.</p>
+        <p>Translation, "I honestly have no idea" </p>
       </div>
       <div class="medium-4 columns">
         <h3>Marketing</h3>
